@@ -27,6 +27,22 @@ as well as web applications and cloud services.
 
 [Uikit](http://getuikit.com/) a lightweight and modular front-end framework for developing fast and powerful web interfaces.
 
+##Package Managers
+Keep track of all the packages you use and make sure they are up to date and the specific version that you need.
+
+[npm](https://www.npmjs.com/) the package manager for JavaScript.
+
+[Bower](http://bower.io/) a web package manager. Manage components that contain HTML, CSS, JavaScript, fonts or even image files.
+
+[NuGet](https://docs.nuget.org/) is tools provide the ability to produce and consume packages.
+
+##Task Runners
+Tasks runners are all about automating your workflow. For example you can create a task and automate the minification of JavaScript. Then build and combine tasks to speed up development time.
+
+[Gulp](http://gulpjs.com/) is a toolkit that helps you automate painful or time-consuming tasks in your development workflow.
+
+
+
 ##Greate Chrome Apps and Extensions
 [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg) identifies software on the web.
 
