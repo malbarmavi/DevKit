@@ -50,9 +50,11 @@ Tasks runners are all about automating your workflow. For example you can create
 
 [EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=en) is a cookie manager. You can add, delete, edit, search, protect and block cookies!.
 
-[Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop)Supercharge your API workflow with Postman! Build, test, and document your APIs faster.
-
 [Full Page Screen Capture]() capture a screenshot of your current page in entirety and reliably—without requesting any extra permissions!.
 
 [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc) code tree for GitHub and GitLab.
+
+[WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) The easiest way to identify fonts on web pages.
+
+[Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop) Supercharge your API workflow with Postman! Build, test, and document your APIs faster.
 
