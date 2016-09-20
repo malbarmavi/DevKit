@@ -1,5 +1,5 @@
 #Development Kit 
-Development kit is list tool or resource that will aid you in your web development workflow.
+Development kit is list of tools and resource that will aid you in your web development workflow.
 Note: The tools and resources below are listed in no particular order.  
 
  
@@ -27,8 +27,7 @@ as well as web applications and cloud services.
 
 [Uikit](http://getuikit.com/) a lightweight and modular front-end framework for developing fast and powerful web interfaces.
 
-
-##Greate Chrome Extensions
+##Greate Chrome Apps and Extensions
 [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg) identifies software on the web.
 
 [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn?hl=en) draw a ruler to get pixel dimensions and positioning, and measure elements on any web page..
