@@ -41,8 +41,6 @@ Tasks runners are all about automating your workflow. For example you can create
 
 [Gulp](http://gulpjs.com/) is a toolkit that helps you automate painful or time-consuming tasks in your development workflow.
 
-
-
 ##Greate Chrome Apps and Extensions
 [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg) identifies software on the web.
 
@@ -58,3 +56,8 @@ Tasks runners are all about automating your workflow. For example you can create
 
 [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop) Supercharge your API workflow with Postman! Build, test, and document your APIs faster.
 
+
+##Useful Resources
+[Microsoft Virtual Academy (MVA)](https://mva.microsoft.com/)  offers free IT training for Developers, IT Pros, Data Scientists, and students.
+
+[Javascripting](https://www.javascripting.com/) a collection of the world's best client-side JavaScript libraries.
