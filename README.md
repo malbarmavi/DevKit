@@ -60,4 +60,6 @@ Tasks runners are all about automating your workflow. For example you can create
 ##Useful Resources
 [Microsoft Virtual Academy (MVA)](https://mva.microsoft.com/)  offers free IT training for Developers, IT Pros, Data Scientists, and students.
 
+[Freecodecamp](https://www.freecodecamp.com/) an open source community that helps you learn to code.
+
 [Javascripting](https://www.javascripting.com/) a collection of the world's best client-side JavaScript libraries.
