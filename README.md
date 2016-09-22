@@ -41,6 +41,16 @@ Tasks runners are all about automating your workflow. For example you can create
 
 [Gulp](http://gulpjs.com/) is a toolkit that helps you automate painful or time-consuming tasks in your development workflow.
 
+##Browsers
+
+[Chrome](https://www.google.com/chrome/) a fast, free web browser.
+
+[Firefox](https://www.mozilla.org/en-US/firefox/new/) is a free and open-source web browser developed by the Mozilla Foundation and its subsidiary.
+
+[Edge](https://www.microsoft.com/en-us/windows/microsoft-edge) is the browser designed for faster, safer browsing on Windows 10.
+
+[Blisk](https://blisk.io/) is a free Chromium-based browser built to increase quality and speed of web development and testing.
+
 ##Greate Chrome Apps and Extensions
 [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg) identifies software on the web.
 
