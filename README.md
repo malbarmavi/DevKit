@@ -51,6 +51,21 @@ Tasks runners are all about automating your workflow. For example you can create
 
 [Blisk](https://blisk.io/) is a free Chromium-based browser built to increase quality and speed of web development and testing.
 
+##Visual Studio Extensions
+[C# Essentials](https://visualstudiogallery.msdn.microsoft.com/a4445ad0-f97c-41f9-a148-eae225dcc8a5) a collection of Roslyn diagnostics, code fixes and refactorings to support C# language features.
+
+[Productivity Power Tools 2015](https://visualstudiogallery.msdn.microsoft.com/34ebc6a2-2777-421d-8914-e29c1dfa7f5d) a set of extensions to Visual Studio 2015 Community (and above) which improves developer productivity.
+
+[Web Essentials 2015.3](https://visualstudiogallery.msdn.microsoft.com/ee6e6d8c-c837-41fb-886a-6b50ae2d06a2) adds many useful features to Visual Studio for web developers. Requires Visual Studio 2015.
+
+[JavaScript Snippet Pack](https://visualstudiogallery.msdn.microsoft.com/423eb4a3-215f-4a8f-9287-1512618ffda3) a snippet pack to make you more productive working with JavaScript. Based on the Atom snippets.
+
+[Editor Enhancements](https://visualstudiogallery.msdn.microsoft.com/4f64e542-3772-4136-8f87-0113441c7aa1) provides additional features such as HTML and URL encodings, transformations and sorting of selected text the editor.
+
+[C# outline 2015](https://visualstudiogallery.msdn.microsoft.com/9390e08c-d0aa-42f1-b3d2-5134aabf3b9a) adds all braces {} outlining for C# editor.
+
+[Glyphfriend](https://visualstudiogallery.msdn.microsoft.com/5fd24afb-b3b2-4cec-9b03-1cfcec6123aa?SRC=Home) is a Visual Studio extension to enhance the existing Intellisense to display preview glyphs for many of the common glyph-based font libraries like Font Awesome, Foundation, IonIcons and more.
+
 ##Greate Chrome Apps and Extensions
 [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg) identifies software on the web.
 
