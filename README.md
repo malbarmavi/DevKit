@@ -4,12 +4,14 @@ Note: The tools and resources below are listed in no particular order.
 
  
 ##IDE
+
  [Visual Studio 2015 community ](https://www.visualstudio.com/products/visual-studio-community-vs)  A free, fully-featured, and extensible IDE for creating modern applications for Windows, Android, and iOS, 
 as well as web applications and cloud services.
 
  [Webstorm](https://www.jetbrains.com/webstorm/)  lightweight yet powerful IDE, perfectly equipped for complex client-side development and server-side development with Node.js.
 
 ##Editors
+
 [Visual Studio Code](https://www.visualstudio.com/products/code-vs)  code editing redefined and optimized for building and debugging modern web and cloud applications.
 
 [Brackets](http://brackets.io/) a modern, open source text editor that understands web design.
@@ -19,6 +21,7 @@ as well as web applications and cloud services.
 [Sublime Text](https://www.sublimetext.com/) is a sophisticated text editor for code, markup and prose.You'll love the slick user interface, extraordinary features and amazing performance.
 
 ##Front-end frameworks
+
 [Bootstrap](http://getbootstrap.com/)  HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
 
 [Foundation](http://foundation.zurb.com/) family of responsive front-end frameworks that make it easy to design beautiful responsive websites, apps and emails that look amazing on any device.
@@ -28,6 +31,7 @@ as well as web applications and cloud services.
 [Uikit](http://getuikit.com/) a lightweight and modular front-end framework for developing fast and powerful web interfaces.
 
 ##Package Managers
+
 Keep track of all the packages you use and make sure they are up to date and the specific version that you need.
 
 [npm](https://www.npmjs.com/) the package manager for JavaScript.
@@ -37,6 +41,7 @@ Keep track of all the packages you use and make sure they are up to date and the
 [NuGet](https://docs.nuget.org/) is tools provide the ability to produce and consume packages.
 
 ##Task Runners
+
 Tasks runners are all about automating your workflow. For example you can create a task and automate the minification of JavaScript. Then build and combine tasks to speed up development time.
 
 [Gulp](http://gulpjs.com/) is a toolkit that helps you automate painful or time-consuming tasks in your development workflow.
@@ -52,6 +57,7 @@ Tasks runners are all about automating your workflow. For example you can create
 [Blisk](https://blisk.io/) is a free Chromium-based browser built to increase quality and speed of web development and testing.
 
 ##Visual Studio Extensions
+
 [C# Essentials](https://visualstudiogallery.msdn.microsoft.com/a4445ad0-f97c-41f9-a148-eae225dcc8a5) a collection of Roslyn diagnostics, code fixes and refactorings to support C# language features.
 
 [Productivity Power Tools 2015](https://visualstudiogallery.msdn.microsoft.com/34ebc6a2-2777-421d-8914-e29c1dfa7f5d) a set of extensions to Visual Studio 2015 Community (and above) which improves developer productivity.
@@ -66,7 +72,12 @@ Tasks runners are all about automating your workflow. For example you can create
 
 [Glyphfriend](https://visualstudiogallery.msdn.microsoft.com/5fd24afb-b3b2-4cec-9b03-1cfcec6123aa?SRC=Home) is a Visual Studio extension to enhance the existing Intellisense to display preview glyphs for many of the common glyph-based font libraries like Font Awesome, Foundation, IonIcons and more.
 
+[Var Replacer C#](https://visualstudiogallery.msdn.microsoft.com/715694b9-e822-44e6-9739-f237f18a4690) this C# analyzer plugin will help you replace "var" with the actual type name.
+
+[Code Maid](http://www.codemaid.net/) is an open source Visual Studio extension to cleanup and simplify our C#, C++, F#, VB, PHP, PowerShell, R, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript and TypeScript coding.
+
 ##Greate Chrome Apps and Extensions
+
 [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg) identifies software on the web.
 
 [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn?hl=en) draw a ruler to get pixel dimensions and positioning, and measure elements on any web page..
